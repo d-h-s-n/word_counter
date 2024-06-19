@@ -1,5 +1,6 @@
 import re
-# Supports regular expressions
+# Supports regular expressions 
+# Uses ASCII values.
 def count_words(input_given):
     
     # Count the number of words in the input given and ignore adjacent duplicates (case-sensitive).
